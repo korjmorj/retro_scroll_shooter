@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767c629bfa0415e42a916639c9daab00, type: 3}
+  m_Name: main
+  m_EditorClassIdentifier: 
+  rest: 0
+  bulletResource: {fileID: 1682314514628590730, guid: d3bfd23e037116842a675df3c06cd330, type: 3}
+  spawnerResource:
+  - {fileID: 1682314514628590730, guid: d3bfd23e037116842a675df3c06cd330, type: 3}
+  minRotation: 0
+  maxRotation: 0
+  numberOfBullets: 0
+  isRandom: 0
+  isDistrib: 1
+  cooldown: 0
+  bulletSpeed: 0
+  bulletVelocity: {x: 0, y: 0}
+  isNotParent: 1
+  deltaangle: 0
+  timer_for_level: 0
+  line_time: 0
+  spiral: 0
+  loh: 0
+  line: 0
+  create_spawners: 1
+  circle_spawn: 0
+  destroytourself: 0
+  lifetime: 0
+  is_moving_again: 0
+  ready_to_shoot: 0
+  spawner_speed: 5
+  spawnersCoords:
+  - {x: 0, y: 3, z: 0}
+  spawner_size: {x: 4, y: 4, z: 4}
+  bullet_sprite: {fileID: 0}
+  bullet_size: {x: 0, y: 0, z: 0}
+  invert: 0
+  slow_down: 0
+  random: 0
