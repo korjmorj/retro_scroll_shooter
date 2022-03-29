@@ -1,7 +1,8 @@
 # :sparkles: retro scroll shooter in Unity - draft version <3 :sparkles:
 draft scroll shooter game in Unity
 ## What is it?
-Absolutely nothing, cos me still workin' (okay, thinkin') about this game? I need to add some quests maybe?
+Absolutely nothing, cos me still workin' (okay, thinkin') on this game. I need to add some quests and new levels maybe? <br>
+In general, I planned this game as a narrative one, and someday I will definitely finish it at least in Russian.
 
 You will have a big trouble :skull:
 
@@ -25,5 +26,5 @@ Actually, everything :trollface:
 
 > :milky_way: Fix shooting bug <br>
 > :milky_way: Change input system <br>
-> :milky_way: Create new dialogue systebased on Yarn Spinner <br>
+> :milky_way: Create new dialogue system based on Yarn Spinner <br>
 
